@@ -1,4 +1,4 @@
 # MobileDevelopment
 This is project IKBFU;
-Autor: Viktor Shelhovtsov;
+Autor: Viktor Shekhovtsov;
 Group: 4MO
