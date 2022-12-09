@@ -26,7 +26,7 @@ class PhoneAdapter : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     private var mPhoneList: ArrayList<PhoneModel> = ArrayList()
 
-    fun setupPhones (phonesList: ArrayList<PhoneModel>) {
+    fun setupPhones (phonesList: Array<PhoneModel>) {
         mPhoneList.clear()
         mPhoneList.addAll(phonesList)
         notifyDataSetChanged()
